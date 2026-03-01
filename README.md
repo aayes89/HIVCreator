@@ -59,8 +59,8 @@ venv\Scripts\activate       # Windows
 ```
 3. Instala las dependencias
 4. Modifica el prompt en el script
-4.2. Si quieres generación completa pasar al paso 4 directamente
-4.2. Si quieres generación de video a partir de imagen previa, cambiar nombre a **keyframe.png**
+- Si quieres generación completa pasar al paso 4 directamente
+- Si quieres generación de video a partir de imagen previa, cambiar nombre a **keyframe.png**
 5. Ejecuta el script
 ```
 python SDAD.py
