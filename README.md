@@ -49,7 +49,7 @@ pip install opencv-python pillow  # para manejo de imágenes/video
 1. Clona el repositorio
 ```
 git clone https://github.com/aayes89/HIVCreator.git
-cd nombre-del-repo
+cd HIVCreator
 ```
 2. Crea y activa entorno virtual (recomendado)
 ```
