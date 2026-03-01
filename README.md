@@ -28,7 +28,8 @@ Proyecto híbrido pensado para tarjetas gráficas de gama media-alta con memoria
 | CPU            | Intel Xeon E5-2650 v4 (12c/24t)    |
 | Sistema        | Linux / Windows + PyTorch + CUDA   |
 
-Funciona (con paciencia) en tarjetas de **6 GB VRAM**. Mejora notable con 8–12 GB.
+Funciona (con paciencia) en tarjetas de **6 GB VRAM**. Mejora notable con 8–12 GB.<br>
+Espacio de disco ocupado **<20GB**.
 
 ## Requisitos
 
